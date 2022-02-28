@@ -12,11 +12,6 @@ The goal of this exercise will be to use React Router to build an app that lets 
 6.  As a user, if I try to navigate to an invalid url (e.g. `/this-is-not-valid`), I am redirected to the colors index page.
 7.  Your app should have some styling.
 
-**BONUS**
-
-1.  Make it so that the `/colors/new` route is protected, and you have to login to access it. (You can hard-code the correct login credentials for the sake of this exercise).
-1.  Persist your colors data in `localStorage`.
-
 Here's an idea of what your app could look like:
 
 ![color app demo](./color-factory.gif)
